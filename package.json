@@ -1,7 +1,7 @@
 {
   "name": "use-timing-events",
   "version": "0.2.3",
-  "description": "Create className with BEM structure in JS",
+  "description": "React hook for utilizing browser timing events",
   "license": "MIT",
   "author": "gnoyx",
   "main": "dist/index.js",
